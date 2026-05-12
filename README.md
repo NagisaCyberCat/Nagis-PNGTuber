@@ -1,2 +1,4 @@
-This is a Godot 4.1.2 stable project. Not sure if everything will work in future version.
-This code is very bad so be warned this is a SLOP project
+# Nagi's PNGTuber is a Fork from PNGTuber-Plus by kaiakairos.
+
+## Upcoming Features
+- Spout Support
