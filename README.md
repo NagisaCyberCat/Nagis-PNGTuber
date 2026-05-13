@@ -1,4 +1,7 @@
-# Nagi's PNGTuber is a Fork from PNGTuber-Plus by kaiakairos.
+# Nagi's PNGTube Studio 1.0.0a is a Fork from PNGTuber-Plus by kaiakairos.
 
-## Upcoming Features
+## New Features
 - Spout Support
+
+## Update Godot Version
+- 4.6.2
